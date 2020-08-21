@@ -1,4 +1,5 @@
 ﻿CREATE DATABASE CedrusTel
+USE CedrusTel
 --- 
 CREATE TABLE UsersDetail( FullName nvarchar(200) NOT NULL,
 						  Address1 nvarchar(200) NOT NULL,
